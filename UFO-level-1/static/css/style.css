@@ -97,7 +97,7 @@
     height: 550px;
     padding: 20px;
     margin: 0;
-    background: black;
+    background: rgb(119, 104, 104);
     background-image: url("../images/nasa.jpg");
     background-attachment: fixed;
     background-position: bottom center;
