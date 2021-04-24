@@ -30,7 +30,7 @@ addData(tableData);
 // Setting up the Filter Button for Date and City
 button.on("click", () => {
 
-    d3.event.preventDefault();
+    // d3.event.preventDefault();
     
 
     var inputDate = inputFieldDate.property("value").trim();
